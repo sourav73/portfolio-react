@@ -1,0 +1,47 @@
+[
+  {
+    "allCategory": "html-css jquery",
+    "imageSrc": "img/works/cuda.png" ,
+    "imageAlt": "Cuda",
+    "usedTechnology": "HTML, CSS, Jquery",
+    "sourceUrl": "https://github.com/sourav73/psd_to_html/tree/master/projects/cuda",
+    "demoUrl": "https://sourav73.github.io/psd_to_html/projects/cuda/index.html",
+    "id": 1
+  },
+  {
+    "allCategory": "html-css jquery bootstrap",
+    "imageSrc": "img/works/infusion.png",
+    "imageAlt": "Infusion",
+    "usedTechnology": "HTML, CSS, Bootstrap, Jquery",
+    "sourceUrl": "https://github.com/sourav73/psd_to_html/tree/master/projects/infusion",
+    "demoUrl": "https://sourav73.github.io/psd_to_html/projects/infusion/index.html",
+    "id": 2
+  },
+  {
+    "allCategory": "html-css javascript",
+    "imageSrc": "img/works/corporate.png",
+    "imageAlt": "Corporate Landing Page",
+    "usedTechnology": "HTML, CSS, Javascript",
+    "sourceUrl": "https://github.com/sourav73/psd_to_html/tree/master/projects/corporate_landing_page",
+    "demoUrl": "https://sourav73.github.io/psd_to_html/projects/corporate_landing_page/index.html",
+    "id": 3
+  },
+  {
+    "allCategory": "html-css sass react javascript",
+    "imageSrc": "img/works/todo.png",
+    "imageAlt": "Todo app",
+    "usedTechnology": "React, Sass",
+    "sourceUrl": "https://github.com/sourav73/todo-react",
+    "demoUrl": "https://spiffy-todo.netlify.app/",
+    "id": 4
+  },
+  {
+    "allCategory": "html-css react javascript",
+    "imageSrc": "img/works/currency_converter.png",
+    "imageAlt": "Currency Converter",
+    "usedTechnology": "React, Api",
+    "sourceUrl": "https://github.com/sourav73/currency-converter-react",
+    "demoUrl": "https://magenta-currency-converter.netlify.app/",
+    "id": 5
+  }
+]
