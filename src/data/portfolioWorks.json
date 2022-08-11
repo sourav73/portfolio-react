@@ -43,5 +43,14 @@
     "sourceUrl": "https://github.com/sourav73/currency-converter-react",
     "demoUrl": "https://magenta-currency-converter.netlify.app/",
     "id": 5
+  },
+  {
+    "allCategory": "html-css sass react javascript",
+    "imageSrc": "img/works/apiens.png",
+    "imageAlt": "Apiens Baller Club",
+    "usedTechnology": "React, Sass",
+    "sourceUrl": "",
+    "demoUrl": "https://apiens-baller.netlify.app/",
+    "id": 6
   }
 ]
