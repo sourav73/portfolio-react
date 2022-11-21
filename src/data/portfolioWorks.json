@@ -52,5 +52,14 @@
     "sourceUrl": "",
     "demoUrl": "https://apiens-baller.netlify.app/",
     "id": 6
+  },
+  {
+    "allCategory": "html-css javascript",
+    "imageSrc": "img/works/product-page.png",
+    "imageAlt": "E-commerce product page",
+    "usedTechnology": "HTML, CSS, Javascript, Swiper"
+    "sourceUrl": "https://github.com/sourav73/frontendmentor_excercise/tree/main/ecommerce-product-page",
+    "demoUrl": "https://sourav73.github.io/frontendmentor_excercise/ecommerce-product-page/index.html",
+    "id": 7
   }
 ]
