@@ -61,5 +61,14 @@
     "sourceUrl": "https://github.com/sourav73/frontendmentor_excercise/tree/main/ecommerce-product-page",
     "demoUrl": "https://sourav73.github.io/frontendmentor_excercise/ecommerce-product-page/index.html",
     "id": 7
+  },
+  {
+    "allCategory": "html-css javascript react",
+    "imageSrc": "img/works/country-finder.png",
+    "imageAlt": "Country finder",
+    "usedTechnology": "React, Redux, Api",
+    "sourceUrl": "https://github.com/sourav73/country-finder",
+    "demoUrl": "https://acountryfinder.netlify.app/",
+    "id": 8
   }
 ]
