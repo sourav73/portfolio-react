@@ -58,8 +58,8 @@
     "imageSrc": "img/works/product-page.png",
     "imageAlt": "E-commerce product page",
     "usedTechnology": "HTML, CSS, Javascript, Swiper",
-    "sourceUrl": "https://github.com/sourav73/frontendmentor_excercise/tree/main/ecommerce-product-page",
-    "demoUrl": "https://sourav73.github.io/frontendmentor_excercise/ecommerce-product-page/index.html",
+    "sourceUrl": "https://github.com/sourav73/frontendmentor_excercise/tree/main/projects/ecommerce-product-page",
+    "demoUrl": "https://sourav73.github.io/frontendmentor_excercise/projects/ecommerce-product-page/index.html",
     "id": 7
   },
   {
@@ -70,5 +70,14 @@
     "sourceUrl": "https://github.com/sourav73/country-finder",
     "demoUrl": "https://acountryfinder.netlify.app/",
     "id": 8
+  },
+  {
+    "allCategory": "html-css javascript",
+    "imageSrc": "img/works/news-homepage.png",
+    "imageAlt": "News homepage",
+    "usedTechnology": "HTML, CSS, Javascript",
+    "sourceUrl": "https://github.com/sourav73/frontendmentor_excercise/tree/main/projects/news-homepage",
+    "demoUrl": "https://sourav73.github.io/frontendmentor_excercise/projects/news-homepage/index.html",
+    "id": 9
   }
 ]
